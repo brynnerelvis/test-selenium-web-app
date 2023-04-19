@@ -1,0 +1,4 @@
+webdriver-manager~=3.8.5
+selenium~=4.8.1.0
+
+
