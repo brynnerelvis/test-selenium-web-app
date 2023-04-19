@@ -1,0 +1,12 @@
+.report.json
+__pycache__
+.pytest_cache
+.python-version
+.idea/*
+screenshots/*
+!screenshots/.gitkeep
+venv/*
+output/*
+!ouput/.gitkeep
+config.yml
+geckodriver.log
