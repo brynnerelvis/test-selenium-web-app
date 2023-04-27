@@ -9,5 +9,4 @@ PyYAML==6.0
 # These are git submodules and should be checked out before running pip installation.
 # They should be made editable so that they are installed in integration/<lib> and not in Python System path.
 # This is because test config classes in the libs depend on current path to get some default file paths like data, screenshots and download paths etc
---editable saucedemo-integration-test-selenium-lib/
-
+--editable ./saucedemo_integration_test_selenium_lib/
